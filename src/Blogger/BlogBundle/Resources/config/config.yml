@@ -1,0 +1,6 @@
+# src/Blogger/BlogBundle/Resources/config/config.yml
+parameters:
+    # Blogger contact email address
+    blogger_blog.emails.contact_email: contact@email.com
+    aaa: 321
+    kkk: *AAA
